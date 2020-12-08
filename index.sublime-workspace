@@ -1,0 +1,736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addScope"
+			],
+			[
+				"google",
+				"google_client"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"i",
+				"image"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"tr",
+				"transparent\tcolor"
+			],
+			[
+				"transl",
+				"translateY()\ttransform"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"si",
+				"signup"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"ro",
+				"row\tflex-direction"
+			],
+			[
+				"c",
+				"capitalize\ttext-transform"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"mo",
+				"mouse_scroll"
+			],
+			[
+				"p",
+				"padding-bottom\tproperty"
+			],
+			[
+				"colum",
+				"column\tflex-direction"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"pt",
+				"padding-top\tproperty"
+			],
+			[
+				"boder",
+				"border\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"pb",
+				"padding-bottom\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"bc",
+				"border-color\tproperty"
+			],
+			[
+				"bacg",
+				"background-size\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"tal",
+				"text-align\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"tran",
+				"translateY()\ttransform"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"texa",
+				"text-align\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"wo",
+				"word-spacing\tproperty"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"f",
+				"flex-shrink\tproperty"
+			],
+			[
+				"textr",
+				"text-transform\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"sc",
+				"space-between\tjustify-content"
+			],
+			[
+				"m",
+				"main_button"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"M",
+				"MagicCarousel"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"uz",
+				"uzbekistan"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"fw",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pAD",
+				"padding-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bacol",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mirabbosbek/Documents/App/firstRepo/index.html",
+		"/C/Users/Mirabbosbek/Documents/App/firstRepo/debug.log",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/posts/edit.php",
+		"/E/Programming/xampp/htdocs/ciblog/assets/css/style.css",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/categories/index.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/models/Post_model.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/controllers/Categories.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/controllers/Posts.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/controllers/Users.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/models/Category_model.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/users/login.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/models/User_model.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/templates/header.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/posts/view.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/posts/index.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/config/routes.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/config/autoload.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/users/register.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/models/Comment_model.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/controllers/Comments.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/categories/create.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/posts/create.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/templates/footer.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/config/database.php",
+		"/E/Programming/xampp/htdocs/ciblog/index.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/pages/about.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/views/pages/home.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/controllers/Pages.php",
+		"/E/Programming/xampp/htdocs/ciblog/application/config/config.php",
+		"/E/Programming/xampp/htdocs/ciblog/.htaccess",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/projects.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/index.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/blog-single.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/elements.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/service.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/blog.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/css/style.css",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/contact.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/about.html",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/css/style.css.map",
+		"/C/Users/Mirabbosbek/Desktop/sparsh/.DS_Store",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/index.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/contact.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/elements.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/blog-single.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/blog.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/about.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/.DS_Store",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/service.html",
+		"/C/Users/Mirabbosbek/Desktop/DAAD/projects.html",
+		"/C/Users/Mirabbosbek/Downloads/sparsh.zip",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/js/main.js",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/index4.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/css/style4.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/css/style3.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/css/style2.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/css/style.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/index5.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/index3.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/index2.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/index.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/css/style5.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/style5.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/style4.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/style3.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/style2.css",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa7380.6329/css/style.css",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa7380.8895/js/main.js",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa7380.5238/index.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/style.css",
+		"/E/web projects/web projects/portfolio.rar",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/style5.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/style4.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/style3.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/style2.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/style.css",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/index5.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/index4.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/index3.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/index2.html",
+		"/C/Users/Mirabbosbek/Desktop/sidebar/bootstrap-3/index.html",
+		"/C/Users/Mirabbosbek/Desktop/121212/index.html",
+		"/C/Users/Mirabbosbek/Desktop/121212/js/main.js",
+		"/C/Users/Mirabbosbek/Desktop/121212/css/media.css",
+		"/C/Users/Mirabbosbek/Desktop/121212/css/style.css",
+		"/C/Users/Mirabbosbek/Desktop/121212/styles.css",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa2264.42335/121212/styles.css",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa2264.41534/121212/index.html",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa8228.22641/css/style.css",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa8228.23711/js/main.js",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa8228.21967/index.html",
+		"/C/Users/Mirabbosbek/Desktop/10^6/index.html",
+		"/C/Users/Mirabbosbek/Desktop/Vue tutorial/index.html",
+		"/C/Users/Mirabbosbek/Desktop/Vue tutorial/js/vue.js",
+		"/C/Users/Mirabbosbek/Desktop/Vue tutorial/vue.js",
+		"/E/web projects/web projects/portf/index.html",
+		"/C/Users/Mirabbosbek/Desktop/Business shopping/index.html",
+		"/C/Users/Mirabbosbek/Desktop/Business shopping/css/style.css",
+		"/C/Users/Mirabbosbek/Desktop/agmed.uz/application/views/public/companents/header.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/views/public/pages/home.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/assets/public/css/media.css",
+		"/C/Users/Mirabbosbek/Desktop/PV orginal/index.html",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/controllers/home.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/core/Admin_Controller.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/views/admin/menu_admin.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/views/admin/partners2/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/views/admin/partners/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/application/views/admin/second-posts/index.php",
+		"/F/PV orginal/css/media.css",
+		"/F/PV orginal/index.html",
+		"/C/Users/MIRABB~1/AppData/Local/Temp/Rar$DRa6952.40367/css/media.css",
+		"/C/Users/Mirabbosbek/Desktop/PV orginal/css/media.css",
+		"/C/Users/Mirabbosbek/Desktop/PV orginal/css/style.css",
+		"/F/PV orginal/css/style.css",
+		"/F/PV orginal/image/logo_ru.png",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/controllers/home.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/menu_admin.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/public/pages/home.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/public/companents/footer.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/assets/public/css/main-style.css",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/cgc.its.uz/assets/public/css/style.css",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/career/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/career_main/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/Происшествия/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/Происшествия_main/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/reform_out/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/reform_in/index.php",
+		"/C/Users/Mirabbosbek/Desktop/OSPanel/domains/mvd-orginal/application/views/admin/reform_main/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
